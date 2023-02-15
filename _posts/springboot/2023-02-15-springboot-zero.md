@@ -1,7 +1,7 @@
 ---
 layout: post
-title: SpringBoot笔记-zero
-subtitle: SpringBoot学习笔记
+title: SpringBoot Zero 笔记
+subtitle: SpringBoot Zero 笔记
 categories: SpringBoot
 tags: [SpringBoot]
 banner:
