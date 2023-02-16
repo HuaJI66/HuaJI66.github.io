@@ -2,5 +2,5 @@
 .bundle
 .sass-cache
 _site
+_posts/docker
 Gemfile.lock
-/_posts/docker/
