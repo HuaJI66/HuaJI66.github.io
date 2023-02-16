@@ -1,9 +1,9 @@
 ---
 layout: pikachu
-title: Mysql 高级脑图笔记
-subtitle: Mysql 高级脑图笔记
-categories: mysql
-tags: [mysql]
+title: docker 脑图笔记
+subtitle: docker 脑图笔记
+categories: docker
+tags: [docker]
 banner:
   video: null             # Video banner source
   loop: true              # Video loop
@@ -12,4 +12,4 @@ banner:
   image: /assets/images/banners/dcp.jpg    # Image banner source
 ---
 
-{%- include views/MySql-high.html -%}
+{%- include views/dockerMap.html -%}
