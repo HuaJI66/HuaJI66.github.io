@@ -3,4 +3,4 @@
 .sass-cache
 _site
 Gemfile.lock
-._posts/docker/*.html
+/_posts/docker/
