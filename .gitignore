@@ -4,6 +4,3 @@
 _site
 Gemfile.lock
 /.sass-cache/
-/_posts/docker/2023-02-16-Docker2022.html
-/_posts/docker/2023-02-16-DockerMap.html
-/_posts/docker/*.d
