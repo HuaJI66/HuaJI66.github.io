@@ -1,16 +1,17 @@
 ---
 layout: post
-title: IntelliJ IDEA 常用快捷键一览表
-subtitle: 世间行乐亦如此，古来万事东流水。
+title: 基础-IntelliJ IDEA 常用快捷键一览表.md
+subtitle: 卓众来东下，金甲耀日光。
 categories: java
-tags: [java]
+tags: [基础]
 banner:
   video: null             # Video banner source
   loop: true              # Video loop
   volume: 0               # Video volume (100% is 1.0)
   start_at: 0             # Video start time
-  image: /assets/images/banners/dcp.jpg    # Image banner source
+  image: /assets/images/banners/spy2.jpg    # Image banner source
 ---
+{% raw %}
 # IntelliJ IDEA 常用快捷键一览表
 
 author：尚硅谷-宋红康
@@ -114,4 +115,4 @@ author：尚硅谷-宋红康
 | 继续执行，进入下一个断点或执行完程序 - resume program | F9            |
 | 停止 - stop                                           | Ctrl+F2       |
 | 查看断点 - view breakpoints                           | Ctrl+Shift+F8 |
-| 关闭 - close                                          | Ctrl+F4       |
+| 关闭 - close                                          | Ctrl+F4       |{% endraw %}
