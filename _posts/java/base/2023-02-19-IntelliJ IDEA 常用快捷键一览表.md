@@ -14,7 +14,6 @@ banner:
 {% raw %}
 # IntelliJ IDEA 常用快捷键一览表
 
-author：尚硅谷-宋红康
 
 ***
 
@@ -115,4 +114,5 @@ author：尚硅谷-宋红康
 | 继续执行，进入下一个断点或执行完程序 - resume program | F9            |
 | 停止 - stop                                           | Ctrl+F2       |
 | 查看断点 - view breakpoints                           | Ctrl+Shift+F8 |
-| 关闭 - close                                          | Ctrl+F4       |{% endraw %}
+| 关闭 - close                                          | Ctrl+F4       |
+{% endraw %}
