@@ -14,7 +14,7 @@ banner:
 
 ## java中线程执行流程详解
 
-![imgs](/assets/images/java/1405715-20200520162018024-1689465997.png)
+![imgs](/assets/images/java/base/0/1405715-20200520162018024-1689465997.png)
 
 ### **0 前言**
 
@@ -981,7 +981,7 @@ public class ThreadLocalTest02 {
 
 
 
-![img](/assets/images/java/v2-50b25a5f65fe02d6eebe27801a94c833_r.jpg)
+![img](/assets/images/java/base/0/v2-50b25a5f65fe02d6eebe27801a94c833_r.jpg)
 
 **重点来了，突然我们ThreadLocal是null了，也就是要被垃圾回收器回收了，但是此时我们的ThreadLocalMap（thread 的内部属性）生命周期和Thread的一样，它不会回收，这时候就出现了一个现象。那就是ThreadLocalMap的key没了，但是value还在，这就造成了内存泄漏。**
 
