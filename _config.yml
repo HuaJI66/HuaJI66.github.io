@@ -29,8 +29,7 @@ title: HuaJi66's TimeStamp
 email: genshintimestamp@outlook.com
 author: HuaJi66
 copyright: Copyright © 1970-2023
-description: >- # this means to ignore newlines until "baseurl:"
-  <span id="jinrishici-sentence">正在加载今日诗词....</span><script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script>
+description: 让时光的卷轴,留住短暂的美好 # this means to ignore newlines until "baseurl:"
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -133,7 +132,7 @@ header_pages:
 default:
   - home:
     heading: "皮卡鼠の时光轴"
-    subheading: <span id="jinrishici-sentence"></span><script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script>
+    subheading: 让时光的卷轴,留住短暂的美好
     #banner: "Your image url"
 # Banner default settings
 # These banner settings are for global banner default, but you can also
@@ -152,7 +151,7 @@ banner:
   subheading_style: null  # Custom subheading style (e.g. color: gold)
 
 # Excerpt size setting
-# excerpt_size: 350
+excerpt_size: 500
 
 # Pagination setting
 paginate: 15
