@@ -11,7 +11,7 @@ banner:
   start_at: 0             # Video start time
   image: /assets/images/banners/spy5.jpg    # Image banner source
 --- 
-
+{% raw %}
 # Spring Cloud
 
 
@@ -12425,3 +12425,4 @@ org.springframework.cloud.bootstrap.BootstrapConfiguration=\
 my.project.CustomCuratorFrameworkConfig,\
 my.project.DefaultCuratorFrameworkConfig
 ```
+{% endraw %}
