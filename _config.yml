@@ -133,7 +133,7 @@ default:
   - home:
     heading: "皮卡鼠の时光轴"
     subheading: 让时光的卷轴,留住短暂的美好
-    #banner: "Your image url"
+    banner: "Your image url"
 # Banner default settings
 # These banner settings are for global banner default, but you can also
 # config it by the front matter for one specific post
