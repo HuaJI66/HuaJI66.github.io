@@ -6,7 +6,15 @@ title: 关于
 <h2>关于</h2>
 
 <p>&nbsp;欢迎来到皮卡鼠の时光轴</p>
-<p>记录生活, 学习, 娱乐 <br>
-  留住短暂的美好!<br>
-  <a href="https://github.com/HuaJI66">→ Github</a>
+<p>让时光的卷轴, <br>
+  留住短暂的美好。<br>
 </p>
+<br>
+<a href="https://github.com/HuaJI66">→ Github</a>
+<script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script><div id="poem_sentence"></div><div id="poem_info"></div><script type="text/javascript">jinrishici.load(function(result) {
+    var sentence = document.querySelector("#poem_sentence")
+    var info = document.querySelector("#poem_info")
+    sentence.innerHTML = result.data.content
+    info.innerHTML = '【' + result.data.origin.dynasty + '】' + result.data.origin.author + '《' + result.data.origin.title + '》'
+  });
+</script>

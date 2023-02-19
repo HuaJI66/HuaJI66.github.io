@@ -135,7 +135,7 @@ header_pages:
 default:
   - home:
     heading: "皮卡鼠の时光轴"
-    subheading: "记录短暂的美好"
+    subheading: "<span id="jinrishici-sentence">正在加载今日诗词....</span><script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script>"
     #banner: "Your image url"
 # Banner default settings
 # These banner settings are for global banner default, but you can also
