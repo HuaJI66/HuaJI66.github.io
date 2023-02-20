@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 基础-IntelliJ IDEA 常用快捷键一览表.md
-subtitle: 卓众来东下，金甲耀日光。
+title: IntelliJ IDEA 常用快捷键一览表.md
+subtitle: 泥落画梁空，梦想青春语。
 categories: java
 tags: [基础]
 banner:
@@ -13,6 +13,7 @@ banner:
 ---
 {% raw %}
 # IntelliJ IDEA 常用快捷键一览表
+
 
 
 ***
