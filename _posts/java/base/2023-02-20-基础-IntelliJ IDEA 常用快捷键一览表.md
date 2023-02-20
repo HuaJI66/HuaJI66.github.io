@@ -1,7 +1,7 @@
 ---
 layout: post
-title: IntelliJ IDEA 常用快捷键一览表.md
-subtitle: 泥落画梁空，梦想青春语。
+title: 基础-IntelliJ IDEA 常用快捷键一览表
+subtitle: 富贵必从勤苦得，男儿须读五车书。
 categories: java
 tags: [基础]
 banner:
