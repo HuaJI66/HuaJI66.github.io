@@ -44,7 +44,7 @@ jobs:
           ls -la ${{ github.workspace }}
           tar -zxvf site.tar.gz -C ./
           mv _site artifact
-          head -n 5 `ls -la ${{ github.workspace }}/artifact`
+          ls -la ${{ github.workspace }}/artifact | head -n 5
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
