@@ -43,8 +43,9 @@ jobs:
         run: |
           ls -la ${{ github.workspace }}
           mkdir artifact
-          tar -zxvf site.tar.gz -C artifact
-          ls -la ${{ github.workspace }}
+          tar -zxvf site.tar.gz -C ./
+          mv _site artifact
+          ls -la ${{ github.workspace }}/artifact
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
