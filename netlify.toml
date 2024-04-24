@@ -1,0 +1,8 @@
+[build]
+  command = "ls -la . && wget `cat release_download.txt` && mkdir site && tar -zxvf artifact.tar.gz -C site >>/dev/null && ls -la site | head -n 20"
+  publish = "site"
+
+[build.environment]
+  JEKYLL_ENV = "production"
+[functions]
+directory = "netlify/functions/"
